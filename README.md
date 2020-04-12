@@ -25,6 +25,6 @@ application up and running.
 
 * Deployment instructions
 
-# The idea is to know how event driven architecture works.This application publishes the posts to Rabbitmq
-when created and upon publishing the subscriber receives the newly created posts by *Sneakers workers.
-This application works as both publisher and subscriber in real world they would be different
+### The idea is to know how event driven architecture works.This application publishes the posts to Rabbitmq
+### when created and upon publishing the subscriber receives the newly created posts by *Sneakers workers.
+### This application works as both publisher and subscriber in real world they would be different
